@@ -5,20 +5,20 @@
 - Computer Engineering Major
 
 # Clubs:
-### Linux Club
+### Linux Club-
 - Jan. 2025 - Current
 
-### Computer Engineering Apprenticeship Club (CPEA)
+### Computer Engineering Apprenticeship Club (CPEA)-
 - Aug. 2024 - Current
 
-### Undergraduate Research Club (URC)
+### Undergraduate Research Club (URC)-
 - Aug. 2024 - Current
 
 # Skills:
 - Digital Logic Design
 - Python
 
-# Projects/Events
+# Projects/Events:
 - 2025 Hackathon for Sports Innovation
 <!---
 JEvan234/JEvan234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
