@@ -21,7 +21,7 @@ computers to execute"
 
 "Any fool can write code that a computer can understand. Good
 programmers write code that humans can understand"
---Martin Fowle
+--Martin Fowler
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jevan234&limit=5&theme=dark&combine_all_yearly_contributions=true)
