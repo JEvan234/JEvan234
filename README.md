@@ -5,7 +5,7 @@ I am a Computer Engineering major entering my Junior Year at KSU.<br>I am Curren
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-evans-596b0130a) 
 
-## Credentials
+## 🪪 Credentials
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://kennesaw.badges.parchment.com/public/credentials/W4t5urVETI2EqxGlI0nlbA"><img width="120px" height="120px" src="https://api.badgr.io/public/badges/2xAhEOMdROOCF8trqnlL4w/image"></a></blockquote> <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://kennesaw.badgr.com/public/credentials/WMUhqlEUTg2zwS5TkiblzA"><img width="120px" height="120px" src="https://api.badgr.io/public/badges/SOKIcL9SQQ6ELgnwbx5WQw/image"></a></blockquote>
 
 # 💻 Tech Stack:
