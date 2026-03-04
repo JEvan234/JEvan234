@@ -18,6 +18,7 @@ I am a Computer Engineering major entering my Junior Year at KSU.<br>I am Curren
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+---
 "Programs are meant to be read by humans and only incidentally for
 computers to execute"
 --Donald Knuth
