@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Engineering major entering my Junior Year at KSU.<br>I am Currently Working on some projects for my organization Linux Club at KSU (LCKSU)<br>including our local server running a modified version of copy party, and our website.<br>I also post source code for our game jam games here!
+I am a Computer Engineering major entering my Senior Year at KSU.<br>
 
 
 ## 🌐 Socials:
